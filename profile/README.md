@@ -29,10 +29,10 @@ More repositories follow as the workshop series grows: starter projects, slide d
 ~/bettervibe $ cat next-event.md
 ```
 
-- **Date:** May 13, 2026, 6:00–9:00 PM
+- **Date:** June 26, 2026 (Friday), 1:00–6:00 PM CEST
 - **Location:** WERK1, Munich
-- **Format:** Hands-on, three hours, ~20 seats
-- **Register:** [luma.com/lj9niymo](https://luma.com/lj9niymo)
+- **Format:** Hands-on, ~17 seats, three instructors
+- **Register:** [luma.com/fc92s7r4](https://luma.com/fc92s7r4)
 
 The workshop is intended for developers with at least six months of full-time experience, comfortable reading code and shaping system architecture. Tool-agnostic in methodology, with Claude Code and Codex as the recommended agents. Bring your laptop. Bring a project you actually care about.
 
@@ -51,7 +51,7 @@ Based in Munich. Three engineers who have shipped production systems with AI age
 ## Stay in the loop
 
 - **Website:** [bettervibe.org](https://bettervibe.org)
-- **Events:** [luma.com/user/bettervibe](https://luma.com/lj9niymo)
+- **Events:** [luma.com/user/bettervibe](https://luma.com/fc92s7r4)
 - **Community:** Munich Claude Code Meetup (450+ members)
 
 ```
