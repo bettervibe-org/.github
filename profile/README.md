@@ -29,7 +29,7 @@ More repositories follow as the workshop series grows: starter projects, slide d
 ~/bettervibe $ cat next-event.md
 ```
 
-- **Date:** July 17, 2026 (Friday), 12:00–6:00 PM CEST
+- **Date:** July 24, 2026 (Friday), 12:00–6:00 PM CEST
 - **Location:** WERK1, Munich
 - **Format:** Hands-on, ~17 seats, three instructors
 - **Register:** [luma.com/fc92s7r4](https://luma.com/fc92s7r4)
