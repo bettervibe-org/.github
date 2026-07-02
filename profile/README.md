@@ -1,14 +1,14 @@
 ```
-~/bettervibe $ whoami
+~/unvibe $ whoami
 ```
 
-# bettervibe.
+# unvibe.
 
 **A workshop series for developers who use AI coding tools and want to get better at it — without the hangover.**
 
 Vibe coding — prompting an agent and accepting whatever it generates — is fast and works well for prototypes. It produces code you don't fully understand, can't easily maintain, and can't ship with confidence. That's the **Vibe Coding Hangover**.
 
-**Agentic engineering** is the discipline of orchestrating AI agents as force multipliers while keeping engineering judgment intact. The agent writes the code. You own the architecture, the quality bar, and the outcome. bettervibe teaches how to brief agents properly, build feedback loops, review with specialist agents, and maintain a working mental model of your own codebase.
+**Agentic engineering** is the discipline of orchestrating AI agents as force multipliers while keeping engineering judgment intact. The agent writes the code. You own the architecture, the quality bar, and the outcome. unvibe teaches how to brief agents properly, build feedback loops, review with specialist agents, and maintain a working mental model of your own codebase.
 
 ---
 
@@ -16,8 +16,8 @@ Vibe coding — prompting an agent and accepting whatever it generates — is fa
 
 The materials we use in the workshops are open and live in this organisation. They are useful on their own, and they are the closest thing to a public reference for how we work.
 
-- **[agentic-engineering-guide](https://github.com/bettervibe-org/agentic-engineering-guide)** — the long-form guide attendees receive. Covers the core techniques: planning, chunking, test loops, prescriptive architectures, subagents, worktrees, and review with specialist agents. Available as Markdown and as a printable PDF.
-- **[skills](https://github.com/bettervibe-org/skills)** — the Claude Code skills we rely on day-to-day, packaged so you can drop them into your own setup.
+- **[agentic-engineering-guide](https://github.com/unvibe-org/agentic-engineering-guide)** — the long-form guide attendees receive. Covers the core techniques: planning, chunking, test loops, prescriptive architectures, subagents, worktrees, and review with specialist agents. Available as Markdown and as a printable PDF.
+- **[skills](https://github.com/unvibe-org/skills)** — the Claude Code skills we rely on day-to-day, packaged so you can drop them into your own setup.
 
 More repositories follow as the workshop series grows: starter projects, slide decks, and example agent configurations.
 
@@ -26,7 +26,7 @@ More repositories follow as the workshop series grows: starter projects, slide d
 ## The next workshop
 
 ```
-~/bettervibe $ cat next-event.md
+~/unvibe $ cat next-event.md
 ```
 
 - **Date:** July 24, 2026 (Friday), 12:00–6:00 PM CEST
@@ -50,10 +50,10 @@ Based in Munich. Three engineers who have shipped production systems with AI age
 
 ## Stay in the loop
 
-- **Website:** [bettervibe.org](https://bettervibe.org)
-- **Events:** [luma.com/user/bettervibe](https://luma.com/fc92s7r4)
+- **Website:** [unvibe.org](https://unvibe.org)
+- **Events:** [luma.com/user/unvibe](https://luma.com/fc92s7r4)
 - **Community:** Munich Claude Code Meetup (450+ members)
 
 ```
-bettervibe ~ $ # see you at the next session
+unvibe ~ $ # see you at the next session
 ```
